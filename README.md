@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate programmer with a love for creating fun a
 
 ## 🌟 About Me
 
-I'm João Mazzaropi, and I've been coding for a few years now. My journey started with my love for gaming, especially **SA-MP (San Andreas Multiplayer)**, which led me to learn **Pawn**. Besides coding, I'm a huge metalhead! I love bands like Megadeth and ANGRA, and my favorite guitarist is Kiko Loureiro.
+I'm João Mazzaropi, and I've been coding for a few years now. My journey started with my love for gaming, especially **SA-MP (San Andreas Multiplayer)**, which led me to learn **Pawn**. Besides coding, I'm a huge metalhead! I love bands like Megadeth and ANGRA, and my favorite guitarist is Kiko Loureiro. I'm also passionate about aviation and love everything related to flying and aircraft.
 
 ## 🛠️ My Experience
 
@@ -25,11 +25,11 @@ Currently, I'm working hard on **Project Roleplay**, a new Action-Roleplay SA-MP
 - **Languages:** Pawn, Python, Lua
 - **Tools:** SA-MP server management, and others.
 
-## 🌟 Let's Connect!
+## ✨ Let's Connect!
 
-I'd love to connect with other developers and gamers. Feel free to reach out!
+I'd love to connect with other developers, gamers, and aviation enthusiasts. Feel free to reach out!
 
-- **Website:** [prsamp.com.br](https://prsamp.com.br)
+- **Website:** [prsamp.com.br](http://prsamp.com.br)
 - **Email:** [joaopedromazzaropi@gmail.com](mailto:joaopedromazzaropi@gmail.com)
 - **Discord:** joaomazzaropi
 
