@@ -29,7 +29,7 @@ Currently, I'm working hard on **Project Roleplay**, a new Action-Roleplay SA-MP
 
 I'd love to connect with other developers, gamers, and aviation enthusiasts. Feel free to reach out!
 
-- **Website:** [prsamp.com.br](http://prsamp.com.br)
+- **Website:** [projectroleplay.com.br](http://projectroleplay.com.br)
 - **Email:** [joaopedromazzaropi@gmail.com](mailto:joaopedromazzaropi@gmail.com)
 - **Discord:** joaomazzaropi
 
