@@ -9,16 +9,16 @@ I'm João Mazzaropi, and I've been coding for a few years now. My journey starte
 ## 🛠️ My Experience
 
 ### 🚀 Nacional Player (npsamp.com.br)
-**Role:** SA-MP Server Developer  
-**Duration:** December 2022 - February 2024
+**Role:** Coordinator, Head of Administrative Management Department  
+**Duration:** December 2022 - February 2024; Since July 2024
 
-For over two years, I worked on the **Nacional Player** server, where I learned a lot about **Pawn** and server management. It was an amazing experience that helped me grow as a developer.
+For over two years, I worked on the **Nacional Player** server, where I learned a lot about **Pawn** and server management. It was an amazing experience that helped me grow as a developer. After a brief period working on **Project Roleplay**, I returned to **Nacional Player** as a Coordinator, managing the Administrative Management Department.
 
-### 🌐 Project Roleplay (projectroleplay.com.br)
+### 🌐 Project Roleplay
 **Role:** Lead Developer and Founder  
-**Duration:** Since June 2024
+**Duration:** June 2024 - July 2024
 
-Currently, I'm working hard on **Project Roleplay**, a new Action-Roleplay SA-MP server. I'm excited to bring fresh and fun experiences to our players.
+I founded **Project Roleplay**, a new Action-Roleplay SA-MP server. After a successful run, I made an agreement with **Nacional Player** and decided to close the project to return to my previous team.
 
 ## 🔧 Skills
 
@@ -29,7 +29,7 @@ Currently, I'm working hard on **Project Roleplay**, a new Action-Roleplay SA-MP
 
 I'd love to connect with other developers, gamers, and aviation enthusiasts. Feel free to reach out!
 
-- **Website:** [projectroleplay.com.br](http://projectroleplay.com.br)
+- **Website:** [npsamp.com.br](http://npsamp.com.br)
 - **Email:** [joaopedromazzaropi@gmail.com](mailto:joaopedromazzaropi@gmail.com)
 - **Discord:** joaomazzaropi
 
