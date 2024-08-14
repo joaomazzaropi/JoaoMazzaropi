@@ -10,7 +10,7 @@ I'm João Mazzaropi, and I've been coding for a few years now. My journey began 
 
 ### Nacional Player (npsamp.com.br)
 **Role:** Scripter (System Developer)
-**Duration:** December 2022 - February 2024;
+**Duration:** December 2022 - February 2024
 
 I worked as a Scripter on the **Nacional Player** server, where I gained extensive experience in **Pawn** and server management. After a brief period working on **Project Roleplay**, I returned to **Nacional Player** to continue contributing to the community.
 
