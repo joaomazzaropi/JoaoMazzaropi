@@ -19,7 +19,7 @@ I'm a dedicated programmer with a strong passion for creating immersive gaming e
 
 #### **Nacional Player (npsamp.com.br)**
 **Role:** Scripter (System Developer)  
-**Period:** Dec 2022 – Feb 2024 | Returned: July 2024 – Present
+**Period:** Dec 2022 – Feb 2024 | Returned: July 2024 – Sep 2024
 - Developing core systems and managing server infrastructure using **Pawn**.
 - Contributing to one of the most active communities in the SA-MP scene.
 
