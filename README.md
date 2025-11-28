@@ -1,4 +1,4 @@
-# Hi there, I'm João Mazzaropi! 👋
+# Hi there, I'm João Pedro, AKA João Mazzaropi! 👋
 
 > *Scripter, Metalhead & Aviation Enthusiast.*
 
