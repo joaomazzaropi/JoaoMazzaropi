@@ -1,33 +1,48 @@
-# Hi there! I'm João Mazzaropi
+# Hi there, I'm João Mazzaropi! 👋
 
-Welcome to my GitHub. I'm a dedicated programmer with a focus on creating engaging gaming experiences.
+> *Scripter, Metalhead & Aviation Enthusiast.*
 
-## About Me
+I'm a dedicated programmer with a strong passion for creating immersive gaming experiences. My journey started with **SA-MP (San Andreas Multiplayer)**, turning my love for gaming into a coding career. When I'm not writing lines of code, I'm probably listening to **Megadeth** or analyzing **Kiko Loureiro's** guitar solos.
 
-I'm João Mazzaropi, and I've been coding for a few years now. My journey began with my love for gaming, particularly **SA-MP (San Andreas Multiplayer)**, which led me to learn **Pawn**. In addition to coding, I'm passionate about metal music, especially bands like Megadeth and ANGRA, with Kiko Loureiro being my favorite guitarist. I also have a keen interest in aviation.
+---
 
-## Experience
+### 🛠️ Tech Stack & Tools
 
-### Nacional Player (npsamp.com.br)
-**Role:** Scripter (System Developer)
-**Duration:** December 2022 - February 2024
+![Pawn](https://img.shields.io/badge/Pawn-SA--MP-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I worked as a Scripter on the **Nacional Player** server, where I gained extensive experience in **Pawn** and server management. After a brief period working on **Project Roleplay**, I returned to **Nacional Player** to continue contributing to the community.
+---
 
-### Project Roleplay
-**Role:** Scripter (System Developer) and Founder
-**Duration:** June 2024 - July 2024
+### 💼 Experience
 
-I founded **Project Roleplay**, an Action-Roleplay SA-MP server. After a successful run, I made an agreement with **Nacional Player** and decided to close the project to rejoin my previous team.
+#### **Nacional Player (npsamp.com.br)**
+**Role:** Scripter (System Developer)  
+**Period:** Dec 2022 – Feb 2024 | Returned: July 2024 – Present
+- Developing core systems and managing server infrastructure using **Pawn**.
+- Contributing to one of the most active communities in the SA-MP scene.
 
-## Skills
+#### **Project Roleplay**
+**Role:** Founder & Lead Scripter  
+**Period:** June 2024 – July 2024
+- Founded and developed an Action-Roleplay server from scratch.
+- Successfully merged the project back into Nacional Player to consolidate efforts.
 
-- **Languages:** Pawn, Python, Lua
-- **Tools:** SA-MP server management, and others.
+---
 
-## Let's Connect
+### ⚡ Fun Facts
+- ✈️ **Aviation:** Huge fan of flight mechanics and aircraft.
+- 🎸 **Music:** Heavy Metal flows in my veins (Angra & Megadeth 🤘).
+- 🎮 **Roots:** Started coding purely because I wanted to modify GTA San Andreas.
 
-I'm always open to connecting with other developers, gamers, and aviation enthusiasts. Feel free to reach out!
+---
 
-- **Email:** [joaopedromazzaropi@gmail.com](mailto:joaopedromazzaropi@gmail.com)
-- **Discord:** joaomazzaropi
+### 📫 Let's Connect
+
+<a href="mailto:joaopedromazzaropi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/joaomazzaropi">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
