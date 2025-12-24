@@ -23,6 +23,13 @@ I'm a dedicated programmer with a strong passion for creating immersive gaming e
 - Developing core systems and managing server infrastructure using **Pawn**.
 - Contributing to one of the most active communities in the SA-MP scene.
 
+#### **Upcoming SA-MP Project** (In Development)
+**Role:** Lead Scripter / Developer
+**Period:** Current
+- Building a unique gamemode and infrastructure from the ground up.
+- Focus on innovative systems and performance optimization.
+- **Status:** Under active development (Release Date: TBA).
+
 ### 📫 Let's Connect
 
 <a href="mailto:joao@jmzp.com.br">
