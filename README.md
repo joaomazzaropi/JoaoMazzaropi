@@ -23,15 +23,6 @@ I'm a dedicated programmer with a strong passion for creating immersive gaming e
 - Developing core systems and managing server infrastructure using **Pawn**.
 - Contributing to one of the most active communities in the SA-MP scene.
 
----
-
-### ⚡ Fun Facts
-- ✈️ **Aviation:** Huge fan of flight mechanics and aircraft.
-- 🎸 **Music:** Heavy Metal flows in my veins (Angra & Megadeth 🤘).
-- 🎮 **Roots:** Started coding purely because I wanted to modify GTA San Andreas.
-
----
-
 ### 📫 Let's Connect
 
 <a href="mailto:joao@jmzp.com.br">
