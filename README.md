@@ -2,7 +2,7 @@
 
 > *Scripter, Metalhead & Aviation Enthusiast.*
 
-I'm a dedicated programmer with a strong passion for creating immersive gaming experiences. My journey started with **SA-MP (San Andreas Multiplayer)**, turning my love for gaming into a coding career. When I'm not writing lines of code, I'm probably listening to **Megadeth** or analyzing **Kiko Loureiro's** guitar solos.
+I'm a dedicated programmer with a strong passion for creating immersive gaming experiences. My journey started with **SA-MP (San Andreas Multiplayer)**, turning my love for gaming into a coding career. When I'm not writing lines of code, I'm probably listening to **Megadeth**, **Angra** or **Guns N' Roses**.
 
 ---
 
@@ -23,12 +23,6 @@ I'm a dedicated programmer with a strong passion for creating immersive gaming e
 - Developing core systems and managing server infrastructure using **Pawn**.
 - Contributing to one of the most active communities in the SA-MP scene.
 
-#### **Project Roleplay**
-**Role:** Founder & Lead Scripter  
-**Period:** June 2024 – July 2024
-- Founded and developed an Action-Roleplay server from scratch.
-- Successfully merged the project back into Nacional Player to consolidate efforts.
-
 ---
 
 ### ⚡ Fun Facts
@@ -40,7 +34,7 @@ I'm a dedicated programmer with a strong passion for creating immersive gaming e
 
 ### 📫 Let's Connect
 
-<a href="mailto:joaopedromazzaropi@gmail.com">
+<a href="mailto:joao@jmzp.com.br">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/joaomazzaropi">
