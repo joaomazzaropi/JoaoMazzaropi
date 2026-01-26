@@ -1,4 +1,4 @@
-# Hi there, I'm João Pedro, AKA João Mazzaropi! 👋
+# Hi there, I'm João Pedro 👋
 
 > *Scripter, Metalhead & Aviation Enthusiast.*
 
@@ -22,13 +22,6 @@ I'm a dedicated programmer with a strong passion for creating immersive gaming e
 **Period:** Dec 2022 – Feb 2024 | Returned: July 2024 – Sep 2024
 - Developing core systems and managing server infrastructure using **Pawn**.
 - Contributing to one of the most active communities in the SA-MP scene.
-
-#### **Upcoming SA-MP Project** (In Development)
-**Role:** Lead Scripter / Developer
-**Period:** Current
-- Building a unique gamemode and infrastructure from the ground up.
-- Focus on innovative systems and performance optimization.
-- **Status:** Under active development (Release Date: TBA).
 
 ### 📫 Let's Connect
 
