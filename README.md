@@ -1,6 +1,6 @@
 # Hi there, I'm João Pedro 👋
 
-> *Scripter, Metalhead & Aviation Enthusiast.*
+> *Developer, Metalhead & Aviation Enthusiast.*
 
 I'm a dedicated programmer with a strong passion for creating immersive gaming experiences. My journey started with **SA-MP (San Andreas Multiplayer)**, turning my love for gaming into a coding career. When I'm not writing lines of code, I'm probably listening to **Megadeth**, **Angra** or **Guns N' Roses**.
 
