@@ -67,12 +67,13 @@ Today I'm focused on the **.NET (C#)** ecosystem, applying **Clean Architecture*
 ---
 
 ### 🔧 [Auto Manager](https://github.com/joaomazzaropi/auto-manager)
-> Service order management system for automotive workshops.
+> Fullstack service order management system for automotive workshops.
 
-- Customer and vehicle registration
-- Service order tracking and management
+- **Back-end:** ASP.NET Core 8 Web API with JWT authentication (BCrypt) and EF Core
+- **Front-end:** Angular 17 with Standalone Components, Auth Interceptor and Route Guards
+- **Features:** Customer & vehicle CRUD, service order workflow with status tracking, dashboard
 
-`C#`
+`C#` `ASP.NET Core 8` `Angular 17` `EF Core` `JWT` `SQLite` `TypeScript`
 
 ---
 
