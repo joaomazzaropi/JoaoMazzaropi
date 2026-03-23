@@ -52,6 +52,17 @@ Today I'm focused on the **.NET (C#)** ecosystem, applying **Clean Architecture*
 
 ## 🚀 Featured Projects
 
+### 🚗 [AutoManager](https://github.com/joaomazzaropi/auto-manager) — Main Project
+> Complete fullstack system for automotive workshop management — the most complete project in this portfolio.
+- **Back-end:** ASP.NET Core 8 Web API with JWT authentication (BCrypt), EF Core, pagination, filters and raw SQL reports
+- **Front-end:** Angular 17 with Standalone Components, Auth Interceptor, Route Guards, reusable components and input masks
+- **Features:** Customer & vehicle CRUD with inline creation flow, service order workflow with status tracking, paginated listings, monthly revenue reports, client ranking, automatic session expiration with toast notifications
+- **Tests:** 18 unit tests with xUnit, FluentAssertions and EF Core InMemory
+
+`C#` `ASP.NET Core 8` `Angular 17` `EF Core` `JWT` `SQLite` `TypeScript` `xUnit`
+
+---
+
 ### 🗂️ [Task Manager API RESTful](https://github.com/joaomazzaropi/Task-Manager-API-RESTFul)
 > RESTful task management API built with ASP.NET Core 8.
 
@@ -63,17 +74,6 @@ Today I'm focused on the **.NET (C#)** ecosystem, applying **Clean Architecture*
 - API documented with **Swagger**
 
 `C#` `ASP.NET Core 8` `EF Core` `MediatR` `FluentValidation` `xUnit` `SQLite`
-
----
-
-### 🔧 [Auto Manager](https://github.com/joaomazzaropi/auto-manager)
-> Fullstack service order management system for automotive workshops.
-
-- **Back-end:** ASP.NET Core 8 Web API with JWT authentication (BCrypt) and EF Core
-- **Front-end:** Angular 17 with Standalone Components, Auth Interceptor and Route Guards
-- **Features:** Customer & vehicle CRUD, service order workflow with status tracking, dashboard
-
-`C#` `ASP.NET Core 8` `Angular 17` `EF Core` `JWT` `SQLite` `TypeScript`
 
 ---
 
